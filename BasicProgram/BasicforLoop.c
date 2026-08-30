@@ -6,7 +6,7 @@ int main()
     {
         // printf("Hello Programmer !\n");
         // printf("Hello World !\n");
-        printf("I Can do it ");
+        // printf("I Can do it ");
     }
     return 0;
 }
